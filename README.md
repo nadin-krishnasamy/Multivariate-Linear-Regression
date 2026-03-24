@@ -44,7 +44,7 @@ print(regression.predict([[3300,1300]]))
 [115.26830058]
 ```
 ### Insert your output
-
+![Output](<Output-10 Maths for AI.png>)
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
